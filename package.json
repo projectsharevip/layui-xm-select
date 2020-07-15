@@ -1,6 +1,6 @@
 {
-  "name": "xm-select",
-  "version": "2.5.0",
+  "name": "layui-xm-select",
+  "version": "1.1.9",
   "description": "layui xm-select",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "author": "maplemei / xm-select",
   "license": "ISC",
   "devDependencies": {
-    "jquery": "^3.5.1"
+    
   },
   "dependencies": {
     
