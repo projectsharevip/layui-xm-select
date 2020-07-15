@@ -1,0 +1,21 @@
+{
+  "name": "xm-select",
+  "version": "2.5.0",
+  "description": "layui xm-select",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slider",
+    "captcha"
+  ],
+  "author": "maplemei / xm-select",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.5.1"
+  },
+  "dependencies": {
+    
+  }
+}
